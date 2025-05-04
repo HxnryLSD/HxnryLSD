@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact: **I hate Humanity**
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r17z2jx9ajwpgahiyxysdbvqx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=r17z2jx9ajwpgahiyxysdbvqx&redirect=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxnrylsd&label=Views&color=000000&style=flat" alt="hxnrylsd" /> </p>
 
 <h3 align="left">Connect with me:</h3>
