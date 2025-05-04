@@ -1,18 +1,18 @@
-<h3 align="center">A lazy german</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&letterSpacing=5px&duration=2000&pause=2000&color=F7F7F7&center=true&width=500&height=80&lines=HxnryLSD)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on: **Idk, starting shit**
+
+- 👨‍💻 All of my projects are available at: [My Repositorys](https://github.com/HxnryLSD?tab=repositories)
+
+- 📫 How to reach me: **hxnrylsd@gmail.com**
+
+- ⚡ Fun fact: **I hate Humanity**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxnrylsd&label=Views&color=000000&style=flat" alt="hxnrylsd" /> </p>
 
-- 🔭 I’m currently working on **Idk, starting shit**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HxnryLSD?tab=repositories](https://github.com/HxnryLSD?tab=repositories)
-
-- 📫 How to reach me **hxnrylsd@gmail.com**
-
-- ⚡ Fun fact **I hate Humanity**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hxnrylsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hxnrylsd" height="30" width="40" /></a>
+<a href="https://twitter.com/hxnrylsd" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="hxnrylsd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18062245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18062245" height="30" width="40" /></a>
 </p>
 
