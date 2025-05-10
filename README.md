@@ -1,26 +1,89 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&letterSpacing=5px&duration=2000&pause=2000&color=F7F7F7&center=true&width=500&height=80&lines=HxnryLSD)](https://git.io/typing-svg)
+<img align="right" height="85" src="https://media1.tenor.com/m/ZOVurfgSXDgAAAAC/siutbot-pc.gif"  />
 
-- 🔭 I’m currently working on: **Idk, starting shit**
+###
 
-- 👨‍💻 All of my projects are available at: [My Repositorys](https://github.com/HxnryLSD?tab=repositories)
+<img align="left" height="85" src="https://files.catbox.moe/zu0hu8.png"  />
 
-- 📫 How to reach me: **hxnrylsd@gmail.com**
+###
 
-- ⚡ Fun fact: **I hate Humanity**
+<h1 align="center">HxnryLSD.PDF</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r17z2jx9ajwpgahiyxysdbvqx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=r17z2jx9ajwpgahiyxysdbvqx&redirect=true)
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hxnrylsd&label=Views&color=000000&style=flat" alt="hxnrylsd" /> </p>
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hxnrylsd" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="hxnrylsd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18062245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18062245" height="30" width="40" /></a>
-</p>
+<h4 align="center">"Nothing is Free"</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hxnrylsd&show_icons=true&theme=dark&title_color=ffffff&text_color=e1e1e1&hide_border=true&locale=en&layout=compact" alt="hxnrylsd" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="css3 logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxnrylsd&show_icons=true&theme=dark&title_color=ffffff&text_color=e1e1e1&hide_border=true&locale=en" alt="hxnrylsd" /></p>
+###
+
+<div align="center">
+  <a href="twitter.com/HxnryLSD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="45" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1096117736146485388" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="45" alt="discord logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/18062245" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="45" alt="stackoverflow logo"  />
+  </a>
+  <a href="youtube.com/channel/UCoy1i7Uj7Ac83K-7Jyyyr8w" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="45" alt="youtube logo"  />
+  </a>
+  <a href="https://patreon.com/c/HLSD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="70" height="45" alt="patreon logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="45" alt="firefox logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="photoshop logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnryLSD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=highcontrast&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HxnryLSD&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HxnryLSD&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HxnryLSD/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/r17z2jx9ajwpgahiyxysdbvqx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r17z2jx9ajwpgahiyxysdbvqx&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
